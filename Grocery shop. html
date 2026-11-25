@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fresh Basket Grocery Shop</title>
+</head>
+
+<body bgcolor="lightyellow">
+
+<center>
+
+    <h1>Fresh Basket Grocery Shop</h1>
+
+    <h2>Welcome to Our Grocery Store</h2>
+
+    <marquee>
+        Fresh Groceries | Best Quality | Best Price
+    </marquee>
+
+    <hr>
+
+    <h3>About Our Shop</h3>
+
+    <p>
+        Welcome to <b>Fresh Basket</b>!
+        We provide <strong>fresh and healthy groceries</strong>
+        for your family.
+    </p>
+
+    <p>
+        Our shop offers <i>quality products</i> at
+        <em>affordable prices</em>.
+    </p>
+
+    <p>
+        Buy fresh vegetables and fruits every day!
+        <br>
+        Thank you for visiting our shop.
+    </p>
+
+    <hr>
+
+    <h3>Our Grocery Products</h3>
+
+    <img src="C:\Users\ELCOT\Downloads\grocery.jpg.jpeg"
+         width="100%"
+         height="300"
+         alt="Fresh Grocery Products">
+
+    <p>
+        We have all types of grocery products
+        including rice, sugar, milk, fruits and vegetables.
+    </p>
+
+    <h3>Available Products</h3>
+
+    <p>
+        <b>Rice</b> - ₹60 per kg
+        <br>
+        <b>Sugar</b> - ₹45 per kg
+        <br>
+        <b>Milk</b> - ₹30 per 500 ml
+        <br>
+        <b>Apples</b> - ₹120 per kg
+    </p>
+
+    <hr>
+
+    <h3>Special Offers</h3>
+
+    <h5>Buy 2 kg Rice and Get 10% Discount!</h5>
+
+    <p>
+        <mark>Special Offer Available!</mark>
+    </p>
+
+    <p>
+        <s>Old Price: ₹120</s>
+        <br>
+        <u>Offer Price: ₹108</u>
+    </p>
+
+    <p>
+        Water formula: H<sub>2</sub>O
+        <br>
+        1 kg = 10<sup>3</sup> grams
+    </p>
+
+    <hr>
+
+    <h3>Customer Feedback</h3>
+
+    <blockquote>
+        Fresh Basket provides fresh products
+        at reasonable prices. I love shopping here!
+    </blockquote>
+
+    <p>
+        Our customer says:
+        <q>Best grocery shop in town!</q>
+    </p>
+
+    <hr>
+
+    <h3>Shop Timings</h3>
+
+    <pre>
+Monday - Saturday
+Morning:  8:00 AM
+Evening:  9:00 PM
+
+Sunday:  9:00 AM - 1:00 PM
+    </pre>
+
+    <hr>
+
+    <h3>Contact Us</h3>
+
+    <p>
+        Fresh Basket Grocery Shop
+        <br>
+        Coimbatore, Tamil Nadu
+        <br>
+        Phone: 9876543210
+    </p>
+
+    <hr>
+
+    <h2>Thank You!</h2>
+
+    <small>Visit us again for fresh groceries.</small>
+
+</center>
+
+</body>
+</html>
